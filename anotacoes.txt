@@ -1,0 +1,19 @@
+252-introdução a seção 
+-programação assíncrona, possibilita executar o codigo de maneira 
+não sincronizada, não necessariamente de cima pra baixo;
+
+253-o que é programação assíncrona?
+-possibilita ações fora da fila, ações executados fora da ordem padrão do código,
+o fluxo do código não para, sendo que quando é a hora, a ação assíncrona 
+é executada 
+
+254-utilizando callbacks 
+-callback é uma função que faz uma ação após algum acontecimento no código 
+    é uma função resposta de alguma ação    
+        ex: setTimeout()
+
+255-aprendendo a utilizar Promises 
+-são ações assíncronas (foram de sincornia)
+-possibilitam serem reaproveitas ao longo do código 
+
+
