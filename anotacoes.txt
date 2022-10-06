@@ -16,4 +16,14 @@ o fluxo do código não para, sendo que quando é a hora, a ação assíncrona
 -são ações assíncronas (foram de sincornia)
 -possibilitam serem reaproveitas ao longo do código 
 
+256-falhas nas primisses 
+-usando catch para reter o erro de promisse, possiilita exibir o erro da promisse 
+
+257-rejeitando promises 
+-além do método resolve, há o método reject, para rejeitar a promessa quando ela não acontece 
+
+258-resolvendo várias promises 
+-o método all, possibilita resolver várias promessas de uma vez só, ou seja, passamos elas por array e quando 
+    a última for resolvida, recebemos a resposta.
+
 
